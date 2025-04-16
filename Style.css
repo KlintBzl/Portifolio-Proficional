@@ -1,0 +1,27 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Barriecito&family=Barrio&family=Joti+One&display=swap');
+body{
+    background-color: aliceblue;
+}
+header{
+    background-color: rgb(236, 243, 248);
+    padding: 20px;
+}
+p a img{
+    width:25px;
+    height: 25px;
+}
+h3{
+    font-family: 'Barrio';
+}
+h3 img{
+    margin-left: 100px;
+
+}
+h2{
+    font-family: 'Joti One';
+}
+h1{
+    font-family: 'Barriecito';
+    text-align: center;
+}
