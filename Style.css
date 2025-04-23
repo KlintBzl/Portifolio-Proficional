@@ -11,6 +11,10 @@ p a img{
     width:25px;
     height: 25px;
 }
+p img{
+    width:25px;
+    height: 25px;
+}
 h3{
     font-family: 'Barrio';
 }
@@ -24,4 +28,10 @@ h2{
 h1{
     font-family: 'Barriecito';
     text-align: center;
+    font-size: 70px;
+}
+
+footer{
+    background-color: rgb(232, 237, 240);
+    
 }
